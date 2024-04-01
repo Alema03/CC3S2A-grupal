@@ -18,12 +18,12 @@
   
 **Objetivos:**
 
--Desarrollar y lanzar una versión funcional de la aplicación en un plazo de 6 meses, enfocándose en la calidad del software y la experiencia del usuario.
--Cumplir con la implementación en los plazos establecidos siguiendo prácticas de una buena gestión de proyectos.
--Atraer una cantidad considerable de usuarios activos en los primeros 3 meses después del lanzamiento, mediante estrategias de marketing efectivas y una interfaz atractiva.
--Garantizar la seguridad de los datos de los usuarios implementando medidas robustas contra ataques de seguridad, como la inyección SQL, y asegurando el almacenamiento seguro de contraseñas.
--Mejorar continuamente la aplicación mediante actualizaciones regulares basadas en retroalimentación de usuarios y evaluaciones internas de desempeño.
--Establecer una estrategia de monetización sostenible, explorando modelos de negocio como publicidad en la plataforma, suscripciones premium y ventas de artículos virtuales dentro del juego.
+- Desarrollar y lanzar una versión funcional de la aplicación en un plazo de 6 meses, enfocándose en la calidad del software y la experiencia del usuario.
+- Cumplir con la implementación en los plazos establecidos siguiendo prácticas de una buena gestión de proyectos.
+- Atraer una cantidad considerable de usuarios activos en los primeros 3 meses después del lanzamiento, mediante estrategias de marketing efectivas y una interfaz atractiva.
+- Garantizar la seguridad de los datos de los usuarios implementando medidas robustas contra ataques de seguridad, como la inyección SQL, y asegurando el almacenamiento seguro de contraseñas.
+- Mejorar continuamente la aplicación mediante actualizaciones regulares basadas en retroalimentación de usuarios y evaluaciones internas de desempeño.
+- Establecer una estrategia de monetización sostenible, explorando modelos de negocio como publicidad en la plataforma, suscripciones premium y ventas de artículos virtuales dentro del juego.
 
 
 **Partes Interesadas:**
