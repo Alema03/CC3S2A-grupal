@@ -8,11 +8,13 @@
 
 **Alcance:**
 
-- Desarrollar una aplicación web que simule el juego de damas americanas.
-- Implementar un sistema de gestión de cuentas de usuario para registro, inicio de sesión, cierre de sesión y almacenamiento seguro de información.
-- Permitir a los usuarios jugar contra otros usuarios o contra la computadora, siguiendo estrictamente las reglas del juego.
+- Desarrollar una aplicación web que simula jugar damas americanas desde el navegador de su preferencia.
+- Implementar un sistema de gestión de cuentas de usuario para registro, inicio de sesión, cierre de sesión y almacenamiento seguro de información, así como estadísticas relacionadas.
 - Registrar y almacenar los detalles de cada juego, incluyendo fecha, hora, oponente, movimientos realizados y resultado.
-- Considerar la extensibilidad para futuras variantes del juego, según lo descrito en la documentación de referencia.
+- Permitir a jugar contra otros usuarios de la plataforma o contra un bot que cuenta con niveles de dificultad, siguiendo estrictamente las reglas del juego.
+- Brindar algunas pautas de juego para los usuarios principiantes que no saben completamente las reglas .
+- Proveer de opciones de movimientos recomendables si es que el jugador lo requiere cuando juega contra un bot.
+
   
 **Objetivos:**
 
