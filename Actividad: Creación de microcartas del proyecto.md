@@ -1,15 +1,10 @@
-# Actividad: Creación de microcartas del proyecto
-**Objetivo de la Actividad**
+# Actividad: Microcartas del proyecto
 
-Los estudiantes aprenderán a definir claramente la visión, el alcance, los objetivos y las partes
-interesadas de un proyecto ágil, desarrollando una microcarta del proyecto que servirá como una
-brújula para su trabajo futuro.
+## Desarrollo de una aplicación de Damas Americanas
 
-**Microcarta del Proyecto:** Desarrollo de una aplicación de Damas Americanas
+**Título del Proyecto:** QueenPlay
 
-**Título del Proyecto:** DamaWeb
-
-**Visión:** Crear una aplicación web que permita a los usuarios disfrutar del juego de damas americanas en línea, ofreciendo una experiencia de juego intuitiva y accesible para jugadores de todas las edades y niveles de habilidad.
+**Visión:** Brindar a los entusiastas de los juegos de mesa la experiencia de jugar damas americanas en línea en una plataforma accesible e intuitiva que fomenta la diversión y el desafío estratégico que tanto les apasiona.
 
 **Alcance:**
 
