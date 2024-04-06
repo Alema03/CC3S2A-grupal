@@ -4,7 +4,7 @@
 
 **Título del Proyecto:** QueenPlay
 
-**Visión:** Brindar a los entusiastas de los juegos de mesa la experiencia de jugar damas americanas en línea en una plataforma accesible e intuitiva que fomenta la diversión y el desafío estratégico que tanto les apasiona.
+**Visión:** QueenPlay aspira a ofrecer a los entusiastas de los juegos de mesa la experiencia de jugar damas americanas en línea, proporcionando una plataforma accesible e intuitiva que fomente la diversión y el desafío estratégico que tanto les apasiona.
 
 **Alcance:**
 
