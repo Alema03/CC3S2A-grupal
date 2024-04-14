@@ -36,7 +36,7 @@ indice | descripción
 todas la funciones  para usuario en sesión pueda jugar contra otro usuario en sesion, guardar juego, recuper el registro del juego, y tranmita un juego.
 #### **sprint 3:** 29 de abril | De0ostración 20% informe 30%
 usuario en sesión pueda jugar contra ordenador. La computadora de intentar de vencer al humano (3 niveles)
-##### **adicionales** 3% adicional calificaicón final
+#### **adicionales** 3% adicional calificaicón final
 1. calidad de software
 2. otras mejoras
 3. informe excepcionalmente escritos
