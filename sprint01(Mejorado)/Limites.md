@@ -24,3 +24,33 @@ indice | descripción
 8 | Marco de prueba unitario JUnit
 9 | Alojamiento público GITHUB y sistema de control de versiones GIT
 ## 3. Entegables (spints)
+Para cada sprint las  condiciones mínima de "Definiciones de hecho" para la implementación de la historia de usuario incluyendo la aprobación de todos los criterior de aceptación (a través de pruebas de automatización y realización completa de pruebas manuales) y la aprobación de todas las pruebas a nivle de unidad, además de la documentación requerida
+Demostración del software funcional, además de un informe (incluye los principales artefactos de software) Demostración de cumplimiento de defiiciones de hecho, además mostrar característica única o mejoras, Plantillas e informe (incrementales mejorados) son en documentación separada.
+Se debe presentar para cada sprint un video de 15 min para mostrar que código cumple condiciones mínimas
+**sprint 1:** 7 abril | Demostración 5% informe 10%
+1. crear un plan de proyecto
+2. especificar requisitos del producto objetivo en términos de historias de usuario y cirterios de aceptación
+3. implementar funciones básicas: registro de usuario, inico de sesión, cierre de sesión, y visualización del nuevo tablero de juego. OBS: board separada de su interfaz gráfica de usuario
+**sprint 2:** 17 abril | Demostración 10% informe 25%
+todas la funciones  para usuario en sesión pueda jugar contra otro usuario en sesion, guardar juego, recuper el registro del juego, y tranmita un juego.
+**sprint 3:** 29 de abril | De0ostración 20% informe 30%
+usuario en sesión pueda jugar contra ordenador. La computadora de intentar de vencer al humano (3 niveles)
+**adicionales** 3% adicional calificaicón final
+1. calidad de software
+2. otras mejoras
+3. informe excepcionalmente escritos
+4. impresión del proyecto
+## 4. Sugerencias adicionales
+1. Antes de la reunión:
+   - comoprender el juego-
+   - leer la documentación
+   - tratar de convertirse en buen jugador
+3. Durante la reunión:
+   - disscusión de la lógica (buscar ejemplos en línea)
+   - analizar los requisitos del proyecto
+   - decidir herrameintas: lenguaje, IDE, marco de pruebas unitarias, estilo de programación
+   - elegir un sitio de alojamiento
+   - programar reuniones y el medio de comunicación
+   - crear lista de elementos de acción y asignar tareas específicas.
+5. Después de la reunión:
+   - editar y aprobar las actas de la reunión por parte de todo el equipo
