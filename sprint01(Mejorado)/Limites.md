@@ -28,15 +28,15 @@ indice | descripción
 - Demostración del software funcional, además de un informe (incluye los principales artefactos de software)
 - Demostración de cumplimiento de defiiciones de hecho, además mostrar característica única o mejoras, Plantillas e informe (incrementales mejorados) son en documentación separada.
 - Se debe presentar para cada sprint un video de 15 min para mostrar que código cumple condiciones mínimas
-**sprint 1:** 7 abril | Demostración 5% informe 10%
+#### **sprint 1:** 7 abril | Demostración 5% informe 10%
 1. crear un plan de proyecto
 2. especificar requisitos del producto objetivo en términos de historias de usuario y cirterios de aceptación
 3. implementar funciones básicas: registro de usuario, inico de sesión, cierre de sesión, y visualización del nuevo tablero de juego. OBS: board separada de su interfaz gráfica de usuario
-**sprint 2:** 17 abril | Demostración 10% informe 25%
+#### **sprint 2:** 17 abril | Demostración 10% informe 25%
 todas la funciones  para usuario en sesión pueda jugar contra otro usuario en sesion, guardar juego, recuper el registro del juego, y tranmita un juego.
-**sprint 3:** 29 de abril | De0ostración 20% informe 30%
+#### **sprint 3:** 29 de abril | De0ostración 20% informe 30%
 usuario en sesión pueda jugar contra ordenador. La computadora de intentar de vencer al humano (3 niveles)
-**adicionales** 3% adicional calificaicón final
+##### **adicionales** 3% adicional calificaicón final
 1. calidad de software
 2. otras mejoras
 3. informe excepcionalmente escritos
