@@ -63,7 +63,7 @@ public class AmericanCheckersGame {
         }else if(getTurn()=="RED"){
             moveDirection = new int[] {1};
         }
-        //empty cell
+        //celda vacia
         if(grid[rowSelected2][colSelected2]!=null){
             return false;
         }

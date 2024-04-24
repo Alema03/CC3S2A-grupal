@@ -33,7 +33,7 @@ public class AmericanCheckersGUI extends JFrame {
         setContentPane();
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         pack();
-        setTitle("American Checkers Game");
+        setTitle("Juego de Damas : QUEENSPLAY");
         setVisible(true);
     }
     Container contentPane;
@@ -50,7 +50,7 @@ public class AmericanCheckersGUI extends JFrame {
 
     class GameBoardCanvas extends JPanel implements ActionListener,MouseListener{
 
-    	JButton toss = new JButton("Click for Toss");
+    	JButton toss = new JButton("Click para empezar");
     	JTextField name1=new JTextField("Player1");
     	JTextField name2=new JTextField("Player2");
     	public JLabel jl=new JLabel();
@@ -105,13 +105,13 @@ public class AmericanCheckersGUI extends JFrame {
                         game.resetGame();
                     }
                     repaint();
-                    //show win message
+                    //Mostrar mensaje al ganador
                     if(game.getGameState().equals(AmericanCheckersGame.GameState.BLACK_WON) || game.getGameState().equals(AmericanCheckersGame.GameState.RED_WON)) {
                         String gameWinner = "Black";
                         if(game.getGameState() == AmericanCheckersGame.GameState.RED_WON){
                             gameWinner = "Red";
                         }
-                        JOptionPane.showMessageDialog(null, new String(gameWinner + " won the game!\nGame will be restarted."));
+                        JOptionPane.showMessageDialog(null, new String(gameWinner + " gano el juego!\nEl juego se reiniciara."));
                         game.resetGame();
                         contentPane.add(gameBoardCanvas.toss, BorderLayout.NORTH);
                         toss.setEnabled(true);
@@ -124,7 +124,7 @@ public class AmericanCheckersGUI extends JFrame {
                 addMouseListener(this);
                 setSize(500, 500);
 
-                toss = new JButton("Make a Toss");
+                toss = new JButton("hacer un lanzamiento");
                 toss.addActionListener(this);
                 toss.setEnabled(true);
 
@@ -238,9 +238,9 @@ public class AmericanCheckersGUI extends JFrame {
             panel.add(name1);
             panel.add(name2);
             
-            int result = JOptionPane.showConfirmDialog(null, panel, "Enter Your Names!", JOptionPane.OK_CANCEL_OPTION, JOptionPane.PLAIN_MESSAGE);
+            int result = JOptionPane.showConfirmDialog(null, panel, "¡Ingrese sus nombres!", JOptionPane.OK_CANCEL_OPTION, JOptionPane.PLAIN_MESSAGE);
             tossWinner = name1.getText();
-            if (result == JOptionPane.OK_OPTION) { //if players give names, names are assigned
+            if (result == JOptionPane.OK_OPTION) { //si lo jugadores muestran sus nombres, estos seran asginados
             	tossWinner=playForToss();
             	
             	if(tossWinner==name1.getText())
@@ -255,14 +255,14 @@ public class AmericanCheckersGUI extends JFrame {
                 }
             }
             
-    		JOptionPane.showMessageDialog(null,new String(tossWinner+" Won the Toss"));
+    		JOptionPane.showMessageDialog(null,new String(tossWinner+" Gano el turno"));
     		jl.setText(tossWinner+"'s turn(Black)");
 
             game.setGameState(AmericanCheckersGame.GameState.PLAYING);
             contentPane.remove(gameBoardCanvas.toss);
         }
         
-		//Code for Generating a random number for toss from 1-100
+		//Código para generar un número aleatorio para lanzar del 1 al 100
 		
         public String playForToss()
         {

@@ -29,10 +29,10 @@ public class CheckersBoardTest extends TestCase {
             new AmericanCheckersGUI(game);
         } catch (Exception e) {
             boardUi = false;
-            assertFalse("Error occured while loading board!", boardUi);
+            assertFalse("¡Ocurrió un error al cargar el tablero!", boardUi);
             e.printStackTrace();
         }
-        assertTrue("Board loaded successfully!", boardUi);
+        assertTrue("¡Tablero cargado exitosamente!", boardUi);
     }
 
     @Test
@@ -44,12 +44,12 @@ public class CheckersBoardTest extends TestCase {
                 piece = game.getCheckersPiece(row, col);
                 if(row<3 && (row+col)%2==1) {
                     assertNotNull(piece);
-                    assertEquals(String.format("Red piece should exist at position row: %s column: %s",row,col), "RED", piece.getColor());
-                    assertEquals(String.format("King piece should not exist at position row: %s column: %s",row,col), false, piece.isKing());
+                    assertEquals(String.format("La pieza roja debe existir en la posición fila: %s columna: %s",row,col), "RED", piece.getColor());
+                    assertEquals(String.format("La pieza rey no debería existir en la posición fila: %s columna: %s",row,col), false, piece.isKing());
                 }else if(row>4 && (row+col)%2==1) {
                     assertNotNull(piece);
-                    assertEquals(String.format("Black piece should exist at position row: %s column: %s",row,col), "BLACK", piece.getColor());
-                    assertEquals(String.format("King piece should not exist at position row: %s column: %s",row,col), false, piece.isKing());
+                    assertEquals(String.format("La pieza negra debe existir en la posición fila: %s columna: %s",row,col), "BLACK", piece.getColor());
+                    assertEquals(String.format("La pieza rey no debería existir en la posición fila: %s columna: %s",row,col), false, piece.isKing());
                 }else{
                     assertNull(piece);
                 }
