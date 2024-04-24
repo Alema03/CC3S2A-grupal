@@ -28,13 +28,13 @@ public class KingPromotionTest {
     @Test
     public void testSuccessfulKingPromotion() {
         game.makeMove(5,0,0,5);
-        Assert.assertTrue("King Promotion is Unsuccessful", game.getCheckersPiece(0, 5).isKing()); // king promotion
+        Assert.assertTrue("La evolucion a Rey no tuvo éxito", game.getCheckersPiece(0, 5).isKing()); // king promotion
     }
 
     @Test
     public void testUnSuccessfulKingPromotion() {
         game.makeMove(5,0,1,5);
-        Assert.assertFalse("King Promotion Unsuccessful", game.getCheckersPiece(1, 5).isKing()); // king promotion
+        Assert.assertFalse("Promoción de rey fallida", game.getCheckersPiece(1, 5).isKing()); // king promotion
     }
 
 

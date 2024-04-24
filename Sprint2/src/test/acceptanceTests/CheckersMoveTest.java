@@ -8,7 +8,6 @@ import production.business.AmericanCheckersGame;
 import production.business.CheckersPiece;
 import production.gui.AmericanCheckersGUI;
 
-
 public class CheckersMoveTest extends TestCase {
 
     private AmericanCheckersGame game;
@@ -24,51 +23,44 @@ public class CheckersMoveTest extends TestCase {
 
     @Test
     public void testFirstMoveByBlack() {
+        assertEquals("El primer turno debería ser jugado por las fichas negras", "BLACK", game.getTurn());
 
-        assertEquals("First turn should be played by black", "BLACK", game.getTurn());
-
-        assertTrue("First move should be by black", game.validMove(5,0,4,1));
+        assertTrue("El primer movimiento debería ser por las fichas negras", game.validMove(5, 0, 4, 1));
     }
 
     @Test
     public void testFirstMoveByRed() {
+        assertNotSame("El primer turno debería ser jugado por las fichas negras", "RED", game.getTurn());
 
-        assertNotSame("First turn should be played by black", "RED", game.getTurn());
-
-        assertFalse("First move should be by black", game.validMove(2,1,3,0));
+        assertFalse("El primer movimiento debería ser por las fichas negras", game.validMove(2, 1, 3, 0));
     }
 
     @Test
     public void testValidMove() {
-
-        assertTrue("Move is Invalid", game.validMove(5,0,4,1));
-
+        assertTrue("El movimiento es inválido", game.validMove(5, 0, 4, 1));
     }
 
     @Test
     public void testInvalidMove() {
-
-        assertFalse(" move is invalid", game.validMove(5,0,3,2));
+        assertFalse("El movimiento es inválido", game.validMove(5, 0, 3, 2));
     }
 
     @Test
     public void testValidMoveByKing() {
-        game.makeMove(5,0,0,5);
-        assertTrue(game.getCheckersPiece(0,5).isKing()); // king promotion
-        game.makeMove(1,4,3,2);
+        game.makeMove(5, 0, 0, 5); // Jugada que convierte una ficha en rey
+        assertTrue(game.getCheckersPiece(0, 5).isKing()); // Promoción a rey
+        game.makeMove(1, 4, 3, 2);
 
-        assertTrue("Move by black king should be valid", game.validMove(0,5,1,4));
+        assertTrue("El movimiento por el rey negro debería ser válido", game.validMove(0, 5, 1, 4));
     }
 
     @Test
-    public void testInValidMoveByKing() {
-        game.makeMove(5,0,0,5);
+    public void testInvalidMoveByKing() {
+        game.makeMove(5, 0, 0, 5);
 
-        game.makeMove(1,4,3,2);
+        game.makeMove(1, 4, 3, 2);
 
-        assertFalse("Move by black king should be valid", game.validMove(0,5,2,3));
+        assertFalse("El movimiento por el rey negro no debería ser válido", game.validMove(0, 5, 2, 3));
     }
-
-
 
 }

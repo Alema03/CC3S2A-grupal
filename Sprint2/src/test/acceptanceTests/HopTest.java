@@ -27,12 +27,12 @@ public class HopTest extends TestCase {
     @Test
     public void testValidHop() {
         game.makeMove(2,3,4,1);
-        assertTrue("Hop is Invalid", game.validMove(5,0,3,2));
+        assertTrue("El salto no es válido", game.validMove(5,0,3,2));
     }
 
     @Test
     public void testInvalidHop() {
         game.makeMove(5,2,4,1);
-        assertFalse("Hop is Invalid", game.validMove(5,0,3,2));
+        assertFalse("El salto no es válido", game.validMove(5,0,3,2));
     }
 }
