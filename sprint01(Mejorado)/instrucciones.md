@@ -14,9 +14,9 @@ Busca desarrollar software limpio, confiable y seguro a través de un proceso in
 
 indice | descripción
 -------|------------- 
-1 | Aplicación Móvil
+1 | Aplicación Web
 2 | base de datos relacional PostgrestSQL: gestión de cuentas de usuario (nombre de usuario(politicas), correo electrónico, contraseña (politicas))
-3 | Funciones mínimas: registro de usuario, inicio de sesión, cierre de sesión, juego, grabación del juego (fecha, hora, oponente, todos los movimientos, resultado) y repetición
+3 | Funciones mínimas: registro de usuario, inicio de sesión, cierre de sesión, juego, grabación del juego (fecha, hora, oponente, todos los movimientos, resultado) y repetición del juego
 4 | Politicas:  requisitos de seguridad como contraseña segura, cifrada, (ataques de inyección SQÑ)
 5 | usuario en sesión puede jugar contra otro usuario en sesión o el ordenador
 6 | considerar extensibilidad a otras variantes del juego (pero no se pedirá variantes)
