@@ -109,34 +109,183 @@
         </tr>
         <tr>
               <td rowspan=3 align="center">1.2 Colocación de las piezas de damas a bordo</td>
-        </tr>
-      <tr>
-              <td align="center">Dado que el usuario ejecuta la aplicación.</td>
+              <td align="left">Dado que el usuario ejecuta la aplicación.</td>
               <td rowspan=3 align="center">En progreso</td>
         </tr>
       <tr>
-              <td align="center">Cuando el tablero de damas está cargado.</td>
+               <td align="left">Cuando el tablero de damas está cargado.</td>
         </tr>
-      <tr>
-              <td align="center">Entonces las piezas de las damas deben estar dispuestas en su posición correcta.</td>
+      <tr>     
+          <td align="left">Entonces las piezas de las damas deben estar dispuestas en su posición correcta.</td>
         </tr>
       <tr>
               <td rowspan=3 align="center">1.3 Lanzamiento para determinar quién juega primero</td>
-        </tr>
-      <tr>
-              <td align="center">Dado que el usuario ejecuta la aplicación.</td>
+              <td align="left">Dado que el usuario ejecuta la aplicación.</td>
               <td rowspan=3 align="center">En progreso</td>
         </tr>
       <tr>
-              <td align="center">Cuando el jugador negro intenta hacer el primer movimiento del juego.</td>
+              <td  align="left">Cuando el tablero de damas está cargado</td>
         </tr>
       <tr>
-              <td align="center">Entonces negro debería poder mover su pieza a la posición deseada.</td>
+              <td align="left">Entonces se abre un cuadro de diálogo de lanzamiento para determinar quién juega primero.</td>
+        </tr>
+         <tr>
+            <td rowspan=18 align="center">2.Jugador realizando movimiento  de pieza </td>
+            <td rowspan=3 align="center">2.1 Primer movimiento de las negras</td>
+            <td align="left">Dado un tablero de damas con piezas de damas</td>
+            <td rowspan=3 align="center">En progreso</td>
+            <td rowspan=18 align="center">Cleber Aguado</td>
+        </tr>
+        <tr>
+            <td align="left">Cuando el jugador negro intenta hacer el primer movimiento del juego</td>
+        </tr>
+        <tr>
+            <td align="left">Entonces negro debería poder mover su pieza a la posición deseada.</td>
+        </tr>
+        <tr>
+              <td rowspan=3 align="center">2.2 Primer movimiento inválido del rojo</td>
+              <td align="left">Dado un tablero de damas con piezas de damas.</td>
+              <td rowspan=3 align="center">En progreso</td>
+        </tr>
+      <tr>
+               <td align="left">Cuando el jugador rojo intenta hacer el movimiento cuando no es su turno.</td>
+        </tr>
+      <tr>     
+          <td align="left">Entonces el jugador no debería poder mover su pieza a la posición deseada.</td>
+        </tr>
+        <tr>
+              <td rowspan=3 align="center">2.3 Realizar un movimiento válido</td>
+              <td align="left">Dado el turno de un jugador para realizar un movimiento.</td>
+              <td rowspan=3 align="center">En progreso</td>
+        </tr>
+      <tr>
+               <td align="left">Cuando un jugador intenta hacer un movimiento válido.</td>
+        </tr>
+      <tr>     
+          <td align="left">Entonces el jugador debería poder realizar un movimiento válido.</td>
+        </tr>
+        <tr>
+              <td rowspan=3 align="center">2.4 Realizar un movimiento no válido</td>
+              <td align="left">Dado el turno de un jugador para realizar un movimiento.</td>
+              <td rowspan=3 align="center">En progreso</td>
+        </tr>
+      <tr>
+               <td align="left">Cuando un jugador intenta realizar un movimiento no válido.</td>
+        </tr>
+      <tr>     
+          <td align="left">Entonces el jugador no debería poder realizar un movimiento inválido.</td>
+        </tr>
+      <tr>
+              <td rowspan=3 align="center">2.5 Realizar un movimiento válido con pieza de rey</td>
+              <td align="left">Dado el turno de un jugador para hacer un movimiento.</td>
+              <td rowspan=3 align="center">En progreso</td>
+        </tr>
+      <tr>
+              <td  align="left">Cuando un jugador intenta hacer un movimiento válido usando la pieza rey</td>
+        </tr>
+      <tr>
+              <td align="left">Entonces el jugador debería poder realizar un movimiento válido.</td>
+        </tr>
+        <tr>
+              <td rowspan=3 align="center">2.6 Realizar un movimiento no válido con pieza de rey</td>
+              <td align="left">Dado el turno de un jugador para hacer un movimiento.</td>
+              <td rowspan=3 align="center">En progreso</td>
+        </tr>
+      <tr>
+               <td align="left">Cuando un jugador intenta realizar una jugada inválida con pieza de rey.</td>
+        </tr>
+      <tr>     
+          <td align="left">Entonces el jugador no debería poder realizar un movimiento inválido.</td>
+        </tr>
+         <tr>
+            <td rowspan=6 align="center">3 Conversión a rey</td>
+            <td rowspan=3 align="center">3.1 Promocionar una pieza normal a pieza rey</td>
+            <td align="left">Dado el turno de un jugador para moverse.</td>
+            <td rowspan=3 align="center">En progreso</td>
+            <td rowspan=6 align="center">Cleber Aguado</td>
+        </tr>
+        <tr>
+            <td align="left">Cuando la pieza del jugador llega a la última fila</td>
+        </tr>
+        <tr>
+            <td align="left">Entonces la pieza debería ser promovida a pieza rey</td>
+        </tr>
+        <tr>
+              <td rowspan=3 align="center">3.2 Promoción fallida del rey </td>
+              <td align="left">Dado el turno de un jugador para moverse.</td>
+              <td rowspan=3 align="center">En progreso</td>
+        </tr>
+      <tr>
+               <td align="left">Cuando la pieza del jugador no llegó a la última fila.</td>
+        </tr>
+      <tr>     
+          <td align="left">Entonces la pieza del jugador no debería ascender a pieza rey.</td>
+        </tr>
+         <tr>
+            <td rowspan=6 align="center">4 Capturar una pieza</td>
+            <td rowspan=3 align="center">4.1 Saltar sobre la pieza del oponente</td>
+            <td align="left">Dado el turno de un jugador para moverse</td>
+            <td rowspan=3 align="center">En progreso</td>
+            <td rowspan=6 align="center">Cleber Aguado</td>
+        </tr>
+        <tr>
+            <td align="left">Cuando un jugador da un salto válido sobre la pieza del oponente</td>
+        </tr>
+        <tr>
+            <td align="left">Entonces el jugador debería poder dar el salto válido y capturar la pieza del oponente.</td>
+        </tr>
+        <tr>
+              <td rowspan=3 align="center">4.2 Realizar un salto fallido sobre una pieza del mismo color</td>
+              <td align="left">Dado el turno de un jugador para moverse.</td>
+              <td rowspan=3 align="center">En progreso</td>
+        </tr>
+      <tr>
+               <td align="left">Cuando un jugador realiza un salto inválido sobre una pieza del mismo color.</td>
+        </tr>
+      <tr>     
+          <td align="left">Entonces el jugador no debería poder realizar el salto inválido y capturar la pieza.</td>
+        </tr>
+         <tr>
+            <td rowspan=9 align="center">5 Fin del juego</td>
+            <td rowspan=3 align="center">5.1 Ganar el juego</td>
+            <td align="left">Dado el turno de un jugador para moverse</td>
+            <td rowspan=3 align="center">En progreso</td>
+            <td rowspan=9 align="center">Cleber Aguado</td>
+        </tr>
+        <tr>
+            <td align="left">Cuando el jugador captura la última pieza del oponente</td>
+        </tr>
+        <tr>
+            <td align="left">Entonces el jugador gana el juego y aparece un mensaje de ganador en la pantalla</td>
+        </tr>
+        <tr>
+              <td rowspan=3 align="center">5.2 Empatando el juego</td>
+              <td align="left">Dado el turno de un jugador para moverse.</td>
+              <td rowspan=3 align="center">En progreso</td>
+        </tr>
+      <tr>
+               <td align="left">Cuando ningún jugador captura la pieza del oponente en los últimos 40 movimientos.</td>
+        </tr>
+      <tr>     
+          <td align="left">Luego el juego termina en empate y aparece el empate en la pantalla.</td>
+        </tr>
+      <tr>
+              <td rowspan=3 align="center">5.3 Ganar la partida sin que queden movimientos legales</td>
+              <td align="left">Dado el turno de un jugador para moverse.</td>
+              <td rowspan=3 align="center">En progreso</td>
+        </tr>
+      <tr>
+              <td  align="left">Cuando un jugador no tiene ningún movimiento legal que hacer</td>
+        </tr>
+      <tr>
+              <td align="left">Luego, el oponente gana y aparece un mensaje de victoria en la pantalla.</td>
         </tr>
     </tbody>
 </table>
 
-# IV. Tareas de implementación
+
+
+# III. Tareas de implementación actualizadas
 <table>
     <thead>
         <tr>
@@ -151,39 +300,69 @@
     </thead>
     <tbody>
         <tr>
-            <td align="center">1 Registro de Usuario</td>
-            <td align="center">1.1 Creación exitosa de una cuenta de usuario válida</td>
-            <td align="center">2</td>
-            <td align="center">3</td>
-            <td align="center">4</td>
-            <td align="center">5</td>
+            <td rowspan=3 align="center">1 Iniciando Juego de damas</td>
+            <td align="center">1.1</td>
+            <td align="center">AmericanCheckersGUI</td>
+            <td align="center">drawBoard(Graphics g)</td>
+            <td rowspan=3 align="center">4</td>
+            <td align="center">Hecho</td>
             <td align="center">6</td>
         </tr>
         <tr>
-            <td align="center">2 Inicio de Sesión</td>
-            <td align="center">2.1 Inicio de sesión exitoso con nombre de usuario y contraseña</td>
-            <td align="center">2</td>
-            <td align="center">3</td>
-            <td align="center">4</td>
-            <td align="center">5</td>
+            <td align="center">1.2 </td>
+            <td align="center">American Checkers Game.
+                                American Checkers GUI</td>
+            <td align="center">drawBoard(Graphics g),init game</td>
+            <td align="center">Hecho</td>
             <td align="center">6</td>
         </tr>
         <tr>
-            <td align="center">3 Visualización del Tablero</td>
-            <td align="center">3.1 Visualización del tablero de damas en línea con posiciones de piezas para ambos jugadores</td>
-            <td align="center">2</td>
-            <td align="center">3</td>
-            <td align="center">4</td>
-            <td align="center">5</td>
+            <td align="center">1.3</td>
+            <td align="center">American Checkers GUI</td>
+            <td align="center">toss</td>
+            <td align="center">Hecho</td>
             <td align="center">6</td>
         </tr>
         <tr>
-            <td align="center">4 Colocación de Piezas</td>
-            <td align="center">4.1 Colocación inicial de piezas en el tablero de acuerdo con las reglas del juego de damas</td>
-            <td align="center">2</td>
-            <td align="center">3</td>
-            <td align="center">4</td>
-            <td align="center">5</td>
+            <td rowspan=14 align="center">2 Jugador realizando movimiento  de pieza</td>
+            <td rowspan=3 align="center">2.1</td>
+            <td rowspan=3 align="center">American Checkers Game.
+                               American Checkers GUI</td>
+            <td align="center">validMove()</td>
+            <td rowspan=14 align="center">4</td>
+            <td rowspan=3 align="center">Hecho</td>
+            <td rowspan=3 align="center">6</td>
+        </tr>
+        <tr>
+            <td align="center">makeMove()</td>
+        </tr>
+        <tr>
+            <td align="center">changeTurn()</td>
+        </tr>
+        <tr>
+            <td align="center">2.2 </td>
+            <td align="center">American Checkers Game.
+                                American Checkers GUI</td>
+            <td align="center">validMove()</td>
+            <td align="center">Hecho</td>
+            <td align="center">6</td>
+        </tr>
+        <tr>
+            <td rowspan=3 align="center">2.3</td>
+            <td align="center">American Checkers Game.
+                                American Checkers GUI</td>
+            <td align="center">validMove()</td>
+            <td align="center">Hecho</td>
+            <td align="center">6</td>
+        </tr>
+        <tr>
+            <td align="center">makeMove()</td>
+            <td rowspan=3 align="center">Hecho</td>
+            <td align="center">6</td>
+        </tr>
+        <tr>
+            <td align="center">changeTurn()</td>
+            <td align="center">Hecho</td>
             <td align="center">6</td>
         </tr>
     </tbody>
