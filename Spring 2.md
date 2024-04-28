@@ -927,10 +927,11 @@ Informe las actas de todas las reuniones, incluidas, entre otras: reunión de pl
 
 ### Decisiones clave:
 - Lenguaje de programación: JAVA
-- Guía de estilo de programación:Prácticas de colaboración y revisión de código
-- IDE: IntelliJ IDEA
-- Sitio de alojamiento del proyecto: Repositorio Grupal
-- Horario habitual de reunión: 8:00 pm
+- GUI Library: Javax
+- Guía de estilo de programación: Google Java Style Guide
+- IDE: IntelliJ
+- Sistema de gestión de bases de datos: MySQL
+- Sitio de alojamiento del proyecto: Github
 
 # VI. Calificaciones de amigos
 
