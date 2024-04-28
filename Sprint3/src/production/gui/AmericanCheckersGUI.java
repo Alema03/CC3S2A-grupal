@@ -159,7 +159,7 @@ public class AmericanCheckersGUI extends JFrame {
                 }
             }
     }
-
+//LOGICA DEL BOT
     int[] findValidBotMove(){
         int[] validBotMove = new int[4];
         for(int row=0; row<8; row++){
