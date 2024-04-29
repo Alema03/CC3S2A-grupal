@@ -20,7 +20,7 @@
               ver el tablero con las piezas de dama colocadas en las posiciones correctas 
               para que pueda empezar a jugar de inmediato.
             </td>
-          <td align="center">Baja</td>
+          <td align="center">Alta</td>
           <td align="center">3 horas</td>
           <td align="center">3 horas</td>
           <td align="center">En curso</td>
@@ -32,7 +32,7 @@
             <td align="center">Como jugador, quiero hacer un movimiento legal en el tablero de 
               damas para que el juego progrese de acuerdo con las reglas oficiales.
             </td>
-          <td align="center">Media</td>
+          <td align="center">Alta</td>
           <td align="center">5 horas</td>
           <td align="center">6 horas</td>
           <td align="center">En curso</td>
@@ -99,7 +99,7 @@
             <td rowspan=3 align="center">1.1 Inicio del Juego</td>
             <td align="left">Dado la aplicación del juego</td>
             <td rowspan=3 align="center">En progreso</td>
-            <td rowspan=9 align="center">Cleber Aguado</td>
+            <td rowspan=9 align="center">Maycoll Escobar</td>
         </tr>
         <tr>
             <td align="left">Cuando el usuario la inicia</td>
@@ -134,7 +134,7 @@
             <td rowspan=3 align="center">2.1 Primer movimiento de las negras</td>
             <td align="left">Dado un tablero de damas con piezas de damas</td>
             <td rowspan=3 align="center">En progreso</td>
-            <td rowspan=18 align="center">Cleber Aguado</td>
+            <td rowspan=18 align="center">Marcelo Nuñez</td>
         </tr>
         <tr>
             <td align="left">Cuando el jugador negro intenta hacer el primer movimiento del juego</td>
@@ -202,7 +202,7 @@
             <td rowspan=3 align="center">3.1 Promocionar una pieza normal a pieza rey</td>
             <td align="left">Dado el turno de un jugador para moverse.</td>
             <td rowspan=3 align="center">En progreso</td>
-            <td rowspan=6 align="center">Cleber Aguado</td>
+            <td rowspan=6 align="center">Marcelo Nuñez</td>
         </tr>
         <tr>
             <td align="left">Cuando la pieza del jugador llega a la última fila</td>
@@ -304,22 +304,22 @@
             <td align="center">1.1</td>
             <td align="center">AmericanCheckersGUI</td>
             <td align="center">drawBoard(Graphics g)</td>
-            <td rowspan=3 align="center">4</td>
+            <td rowspan=3 align="center">Maycoll Escobar</td>
             <td rowspan=3 align="center">Hecho</td>
-            <td align="center">6</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">1.2 </td>
             <td align="center">American Checkers Game.
                                 American Checkers GUI</td>
             <td align="center">drawBoard(Graphics g),init game</td>
-            <td align="center">6</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td align="center">1.3</td>
             <td align="center">American Checkers GUI</td>
             <td align="center">toss</td>
-            <td align="center">6</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td rowspan=14 align="center">2 Jugador realizando movimiento  de pieza</td>
@@ -327,9 +327,9 @@
             <td rowspan=3 align="center">American Checkers Game.
                                American Checkers GUI</td>
             <td align="center">validMove()</td>
-            <td rowspan=14 align="center">4</td>
+            <td rowspan=14 align="center">Marcelo Nuñez</td>
             <td rowspan=3 align="center">Hecho</td>
-            <td rowspan=3 align="center">6</td>
+            <td rowspan=3 align="center"></td>
         </tr>
         <tr>
             <td align="center">makeMove()</td>
@@ -343,7 +343,7 @@
                                 American Checkers GUI</td>
             <td align="center">validMove()</td>
             <td align="center">Hecho</td>
-            <td align="center">6</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td rowspan=3 align="center">2.3</td>
@@ -351,7 +351,7 @@
                                 American Checkers GUI</td>
             <td align="center">validMove()</td>
             <td rowspan=3 align="center">Hecho</td>
-            <td rowspan=3 align="center">6</td>
+            <td rowspan=3 align="center"></td>
         </tr>
         <tr>
             <td align="center">makeMove()</td>
@@ -365,7 +365,7 @@
                                 American Checkers GUI</td>
             <td align="center">validMove()</td>
             <td align="center">Hecho</td>
-            <td align="center">6</td>
+            <td align="center"></td>
         </tr>
         <tr>
             <td rowspan=4 align="center">2.5 </td>
@@ -373,7 +373,7 @@
                                 American Checkers GUI</td>
             <td align="center">validMove()</td>
             <td rowspan=4 align="center">Hecho</td>
-            <td rowspan=4 align="center">6</td>
+            <td rowspan=4 align="center"></td>
         </tr>
         <tr>
             <td align="center">makeMove()</td>
@@ -390,7 +390,7 @@
                                 American Checkers GUI</td>
             <td align="center">validMove()</td>
             <td rowspan=2 align="center">Hecho</td>
-            <td rowspan=2 align="center">6</td>
+            <td rowspan=2 align="center"></td>
         </tr>
         <tr>
             <td align="center">isKing()</td>
@@ -402,9 +402,9 @@
             <td rowspan=4 align="center">American Checkers Game.
                                 American Checkers GUI</td>
             <td rowspan=1 align="center">validMove()</td>
-            <td rowspan=7 align="center">des</td>
+            <td rowspan=7 align="center">Marcelo Nuñez</td>
             <td rowspan=4 align="center">Hecho</td>
-            <td rowspan=4 align="center">6</td>
+            <td rowspan=4 align="center"></td>
         </tr>
         <tr>
             <td align="center">makeMove()</td>
@@ -421,7 +421,7 @@
                                 American Checkers GUI</td>
             <td rowspan=1 align="center">validMove()</td>
             <td rowspan=3 align="center">Hecho</td>
-            <td rowspan=3 align="center">6</td>
+            <td rowspan=3 align="center"></td>
         </tr>
         <tr>
             <td align="center">makeMove()</td>
@@ -435,9 +435,9 @@
             <td rowspan=3 align="center">American Checkers Game.
                                 American Checkers GUI</td>
             <td align="center">validMove()</td>
-            <td rowspan=5 align="center">des</td>
+            <td rowspan=5 align="center">Cleber Aguado</td>
             <td rowspan=3 align="center">Hecho</td>
-            <td rowspan=3 align="center">6</td>
+            <td rowspan=3 align="center"></td>
         </tr>
         <tr>
             <td align="center">makeMove()</td>
@@ -451,7 +451,7 @@
                                 American Checkers GUI</td>
             <td rowspan=1 align="center">validMove()</td>
             <td rowspan=2 align="center">Hecho</td>
-            <td rowspan=2 align="center">6</td>
+            <td rowspan=2 align="center"></td>
         </tr>
         <tr>
             <td align="center">changeTurn()</td>
@@ -462,9 +462,9 @@
             <td rowspan=4 align="center">American Checkers Game.
                                 American Checkers GUI</td>
             <td align="center">validMove()</td>
-            <td rowspan=12 align="center">des</td>
+            <td rowspan=12 align="center">Cleber Aguado</td>
             <td rowspan=4 align="center">Hecho</td>
-            <td rowspan=4 align="center">6</td>
+            <td rowspan=4 align="center"></td>
         </tr>
         <tr>
             <td align="center">makeMove()</td>
@@ -481,7 +481,7 @@
                                 American Checkers GUI</td>
             <td rowspan=1 align="center">validMove()</td>
             <td rowspan=4 align="center">Hecho</td>
-            <td rowspan=4 align="center">6</td>
+            <td rowspan=4 align="center"></td>
         </tr>
          <tr>
             <td align="center">makeMove()</td>
@@ -498,7 +498,7 @@
                                 American Checkers GUI</td>
             <td rowspan=1 align="center">validMove()</td>
             <td rowspan=4 align="center">Hecho</td>
-            <td rowspan=4 align="center">6</td>
+            <td rowspan=4 align="center"></td>
         </tr>
          <tr>
             <td align="center">makeMove()</td>
@@ -533,7 +533,7 @@ Resumen del código de prueba automatizado (que corresponde directamente a algun
             <td align="center">testCheckersBoard()</td>
             <td align="center">Comprueba si el tablero es visible o no</td>
             <td align="center">Hecho</td>
-            <td rowspan=2 align="center">6</td>
+            <td rowspan=2 align="center">Maycoll Escobar</td>
         </tr>
         <tr>
             <td align="center">1.2</td>
@@ -548,7 +548,7 @@ Resumen del código de prueba automatizado (que corresponde directamente a algun
             <td align="center">testFirtsMoveByBlack()</td>
             <td align="center">Asegura  que el primer movimiento lo hagan las negras.</td>
             <td align="center">Hecho</td>
-            <td rowspan=6 align="center">Des</td>
+            <td rowspan=6 align="center">Marcelo Nuñez</td>
         </tr>
         <tr>
             <td align="center">2.2</td>
@@ -587,7 +587,7 @@ Resumen del código de prueba automatizado (que corresponde directamente a algun
             <td align="center">testSuccesfulKingPromotion()</td>
             <td align="center">Cuando una pieza normal llega a la primera fila del oponente, debe ascender a rey</td>
             <td align="center">Hecho</td>
-            <td rowspan=2 align="center">des</td>
+            <td rowspan=2 align="center">Marcelo Nuñez</td>
         </tr>
         <tr>
             <td align="center">3.2</td>
@@ -602,7 +602,7 @@ Resumen del código de prueba automatizado (que corresponde directamente a algun
             <td align="center">testValidHop()</td>
             <td align="center">Debería permitirse matar una pieza del oponente.</td>
             <td align="center">Hecho</td>
-            <td rowspan=2 align="center">des</td>
+            <td rowspan=2 align="center">Cleber Aguado</td>
         </tr>
         <tr>
             <td align="center">4.2</td>
@@ -617,7 +617,7 @@ Resumen del código de prueba automatizado (que corresponde directamente a algun
             <td align="center">winPositionTest()</td>
             <td align="center">Cuando no quede ninguna pieza del oponente, éste deberá ser declarado ganador.</td>
             <td align="center">Hecho</td>
-            <td rowspan=2 align="center">des</td>
+            <td rowspan=2 align="center">Cleber Aguado</td>
         </tr>
         <tr>
             <td align="center">5.2</td>
@@ -650,7 +650,7 @@ Resumen de casos de prueba manuales (que corresponden directamente a algunos cri
             <td align="center">Checkers Board</td>
             <td align="center">Hecho</td>
             <td align="center">Se debe mostrar el tablero de damas.</td>
-            <td align="center">6</td>
+            <td align="center">Maycoll Escobar</td>
         </tr>
         <tr>
             <td align="center">2 Inicio de Sesión</td>
@@ -659,7 +659,7 @@ Resumen de casos de prueba manuales (que corresponden directamente a algunos cri
             <td align="center">Posición de la pieza</td>
             <td align="center">Hecho</td>
             <td align="center">La pieza de damas debe estar dispuesta correctamente</td>
-            <td align="center">6</td>
+            <td align="center">Marcelo Nuñez</td>
         </tr>
         <tr>
             <td align="center">3 Visualización del Tablero</td>
@@ -668,7 +668,7 @@ Resumen de casos de prueba manuales (que corresponden directamente a algunos cri
             <td align="center">Player 1 o Player 2</td>
             <td align="center">Hecho</td>
             <td align="center">Cuadro de texto que muestre quien gano el turno</td>
-            <td align="center">6</td>
+            <td align="center">Cleber Aguado</td>
         </tr>
     </tbody>
 </table>
