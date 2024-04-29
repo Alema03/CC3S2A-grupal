@@ -1493,85 +1493,53 @@ Informe las actas de todas las reuniones, incluidas, entre otras: reunión de pl
     </thead>
     <tbody>
         <tr>
-            <td rowspan=3 align="center">8/04/2024</td>
-            <td rowspan=3 align="center">3 horas</td>
+            <td rowspan=3 align="center">17/04/2024</td>
+            <td rowspan=3 align="center">4 horas</td>
             <td rowspan=3 align="center">Meet</td>
             <td align="center">Cleber Aguado</td>
-            <td rowspan=3 align="center">Implementación del juego Humano vs Computadora y prueba del código escribiendo casos de prueba relevantes.</td>
-            <td align="left">Discucion sobre el algoritmo para el juego entre humanos y computadoras.</td>
+            <td rowspan=3 align="center">Implementación del juego Human vs Computadora y prueba del código escribiendo casos de prueba relevantes.</td>
+            <td align="left">Discusion sobre el algoritmo de juego entre humano y computadora.</td>
         </tr>
         <tr>
             <td align="center">Marcelo Nuñez</td>
-            <td align="left">Implementar el juego entre humano vs computadora.</td>
+            <td align="left">Implementacion  del juego entre humano vs computadora.</td>
         </tr>
         <tr>
             <td align="center">Maycoll Escobar</td>
             <td align="left">Probar el juego entre humanos y computadoras escribiendo casos de prueba relevantes.</td>
         </tr>
         <tr>
-            <td rowspan=3 align="center">10/04/2024</td>
+            <td rowspan=3 align="center">20/04/2024</td>
             <td rowspan=3 align="center">2 horas</td>
             <td rowspan=3 align="center">Meet</td>
             <td align="center">Cleber Aguado</td>
             <td rowspan=3 align="center">Revisión de todo el proyecto</td>
-            <td align="left">Elección de representante del grupo</td>
+            <td align="left">Organizar una revisión del código y anotar los hallazgos.</td>
         </tr>
         <tr>
             <td align="center">Marcelo Nuñez</td>
-            <td align="left">Organizó una revisión del código y anotó los hallazgos</td>
+            <td align="left">Realicé una refactorización relevante y completar la optimización final del código para un mejor rendimiento.</td>
         </tr>
         <tr>
             <td align="center">Maycoll Escobar</td>
-            <td align="left">Práctica de uso de commits y edición</td>
+            <td align="left">Preparar código para juegos entre humanos y computadora y documentarlo</td>
         </tr>
         <tr>
-            <td rowspan=3 align="center">13/04/2024</td>
+            <td rowspan=3 align="center">25/04/2024</td>
             <td rowspan=3 align="center">1 hora</td>
             <td rowspan=3 align="center">Meet</td>
             <td align="center">Cleber Aguado</td>
-            <td rowspan=3 align="center">Debate sobre implementación y software a utilizar</td>
-            <td align="left">Investigar sobre la viabilidad de hacer una app o una página</td>
+            <td rowspan=3 align="center">Sesión de revisión de códig, completar la documentación final del proyecto</td>
+            <td align="left">Preparacion diagramas de clases y anotar su explicación en la documentación.</td>
         </tr>
         <tr>
             <td align="center">Marcelo Nuñez</td>
-            <td align="left">Elección del lenguaje a utilizar</td>
+            <td align="left">Preparación del diseño de la interfaz de usuario, discusion sobre extensibilidad.</td>
         </tr>
         <tr>
             <td align="center">Maycoll Escobar</td>
-            <td align="left">Elección de IDE a utilizar</td>
+            <td align="left">Culminación de Spring</td>
         </tr>
-        <tr>
-            <td rowspan=3 align="center">14/04/2024</td>
-            <td rowspan=3 align="center">1 hora</td>
-            <td rowspan=3 align="center">Meet</td>
-            <td align="center">Cleber Aguado</td>
-            <td rowspan=3 align="center">Repartir el trabajo del Sprint 1 y mejorar lo hecho en clase y presentación de avance</td>
-            <td align="left">Actualización de Microcarta, historias de uso y criterios de aceptación</td>
-        </tr>
-        <tr>
-            <td align="center">Marcelo Nuñez</td>
-            <td align="left">Presentación de avance de desarrollo de código</td>
-        </tr>
-        <tr>
-            <td align="center">Maycoll Escobar</td>
-            <td align="left">Revisión y corrección de códigos y colaboración para la resolución de los problemas o dudas</td>
-        </tr>
-        <tr>
-            <td rowspan=3 align="center">16/04/2024</td>
-            <td rowspan=3 align="center">1 hora</td>
-            <td rowspan=3 align="center">Bilbioteca de FC</td>
-            <td align="center">Cleber Aguado</td>
-            <td rowspan=3 align="center">Concluir el Sprint 1</td>
-            <td align="left">Revisar las actividades requeridas así como la implementación primitiva.</td>
-        </tr>
-        <tr>
-            <td align="center">Marcelo Nuñez</td>
-            <td align="left">Lectura grupal del Spring 1</td>
-        </tr>
-        <tr>
-            <td align="center">Maycoll Escobar</td>
-            <td align="left">Grabación de vídeo de presentación de avance</td>
-        </tr> 
     </tbody>
 </table>
 
