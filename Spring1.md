@@ -6,18 +6,18 @@ QueenPlay
 
 ### Visión: 
 
-QueenPlay aspira a ofrecer a los entusiastas de los juegos de mesa la experiencia de jugar damas americanas en línea, proporcionando una plataforma accesible e intuitiva que fomente la diversión y el desafío estratégico que tanto les apasiona.
+QueenPlay aspira a ofrecer a los entusiastas de los juegos de mesa la experiencia de jugar damas americanas, proporcionando una plataforma accesible e intuitiva que fomente la diversión y el desafío estratégico que tanto les apasiona.
 
 ### Misión: 
 
-Nuestra misión es desarrollar una aplicación que permita a los jugadores disfrutar de partidas de damas americanas en sus propios teléfonos, ofreciendo funciones de gestión de cuentas de usuario, partidas registradas y la posibilidad de jugar contra otros usuario o bots, todo ello siguiendo estrictamente las reglas de dicho juego.
+Nuestra misión es desarrollar una aplicación que permita a los jugadores disfrutar de partidas de damas americanas, ofreciendo funciones de gestión de cuentas de usuario, partidas registradas y la posibilidad de jugar contra otros usuario o bots, todo ello siguiendo estrictamente las reglas de dicho juego.
 
 ### Elevator Pitch: 
 
-QueenPlay es una aplicacion para usuarios Android que ofrece la oportunidad de disfrutar de partidas de damas americanas en cualquier momento y lugar. Con características intuitivas y opciones para todos los niveles de habilidad, QueenPlay es el destino ideal para los amantes de este clásico juego de estrategia. Nuestra plataforma intuitiva y accesible te garantiza horas de diversión sin importar tu nivel de experiencia.
+QueenPlay es una aplicacion para usuarios que ofrece la oportunidad de disfrutar de partidas de damas americanas en cualquier momento y lugar. Con características intuitivas y opciones para todos los niveles de habilidad, QueenPlay es el destino ideal para los amantes de este clásico juego de estrategia. Nuestra plataforma intuitiva y accesible te garantiza horas de diversión sin importar tu nivel de experiencia.
 
 ### Alcance:
-- Desarrollar una aplicación  que simula jugar damas americanas desde un aplicativo móvil.
+- Desarrollar una aplicación  que simula jugar damas americanas desde una app local.
 
 - Implementar un sistema de gestión de cuentas de usuario para registro, inicio de sesión, cierre de sesión y almacenamiento seguro de información, así como estadísticas relacionadas.
 
