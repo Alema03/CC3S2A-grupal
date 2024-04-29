@@ -1150,43 +1150,85 @@ Contribuidores: Escobar Maycoll, Aguado Clever, Nuñez Gerson
 
 Siempre que un usuario quiera jugar un juego, debe registrarse para un juego. Para eso, el usuario debe ingresar un nombre de usuario válido, nombre, apellido, correo electrónico, contraseña, contraseña reingresada y número de teléfono. Una vez que todos estos campos están validados y verificados, el usuario debería poder registrarse. Los detalles ingresados también se almacenarán en la tabla de registro en la base de datos MySQL “American Checkers” y una vez que el usuario se registre exitosamente, podrá iniciar sesión en el juego y, de manera similar, quien quiera jugar debe registrarse. Sólo los usuarios registrados pueden jugar.
 
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/ba773e41-ac25-442d-b8f7-42b894f8326b)
+
+
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/fbee0f56-28f3-4372-a46f-d443958cc31d)
+
 Después de un registro exitoso, la base de datos tendrá los valores ingresados como se muestra a continuación: 
+
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/6ca987b3-2244-482b-b27b-4e3ecc936b22)
 
 ### Registre un nuevo usuario con datos no válidos:
 Si el usuario ingresó los valores no coinciden con cualquiera de los escenarios de validación, aparecerá una ventana emergente que indicará que se ingresaron datos no válidos. Y además, los datos no se almacenarán en la base de datos MySQL de damas americanas creada:
-![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/ba773e41-ac25-442d-b8f7-42b894f8326b)
+
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/49e3b2a7-7bf8-4a17-abdd-c028e18fbf9e)
+
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/8e7567d1-e211-4c4d-b723-48f7a9341f53)
+
 
 ### Inicio de sesión de usuario: :
 Al iniciar sesión, un usuario debe ingresar el nombre de usuario y la contraseña; una vez que este nombre de usuario y contraseña coincidan con los valores registrados en la base de datos, el usuario podrá acceder a la interfaz del juego:
 
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/19fa42ff-73ae-4b73-a6d5-df25e0b4ae04)
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/d73b8e8e-698f-44ce-a150-171800278d12)
+
+
 ### Inicio de sesión no válido:
 Si ingresa un nombre de usuario o contraseña que no coincide con el registro de la base de datos, aparecerá una ventana emergente con el mensaje de “logueo ha fallado”.
 
+
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/c0f79eee-497e-4d9e-b838-04da50d49f7a)
+
 ### Decidir el Turno:
 Una vez que el usuario haya iniciado sesión correctamente, obtendrá un juego para proceder a realizar un lanzamiento. Y ahora podrás ver el botón decidir turno junto con el tablero de damas.
+
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/3900e945-99cb-4b36-96fa-b867d4dee102)
+
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/9f73a0fa-e5ed-45fa-9d6a-df52b57d02ca)
+
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/a445319f-20f7-47e7-8b41-b0c218350626)
+
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/a7d20fc7-c770-4c82-ba8c-6ea86ced88d0)
+
 
 Cuando haga clic en el botón Hacer un lanzamiento, aparecerá un mensaje para ingresar el nombre del “player1” y el nombre del ‘’player2’’ y luego podrá hacer clic en Aceptar para decidir el turno:
 
 ### Funcionalidad de desactivación de lanzamiento:
 Quien gane el sorteo tendrá la oportunidad de hacer un movimiento primero y el color asignado para el ganador del sorteo será el negro. Y ambos usuarios solo pueden realizar un lanzamiento una vez y después de realizarlo, se desactiva automáticamente.
 
-
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/f4e42329-063c-4162-9b7e-c34a01387a98)
 
 
 ### Cambiar al modo Computadora
 Y ahora, si quieres cambiar del modo humano al modo computadora, debes hacer clic en el botón Humano vs Computadora al lado del botón de lanzamiento en la parte superior de la interfaz de usuario del juego. Si hace clic en el botón Humano a computadora, recibirá un mensaje emergente que indica que cambió al modo Humano a computadora.
 Cambiar al modo humano desde el modo computadora
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/b2756c60-289c-41ef-adfb-607eeb7caef3)
 
 Y si desea volver al modo normal o al modo humano, puede hacer clic nuevamente en el botón Humano vs computadora y luego cambiará al modo humano a humano. Si quieres continuar con el oponente de la computadora, puedes continuar hasta el final del juego. Funcionará y nuestro código informático derrotará al peor jugador humano.
+
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/f1d6cca6-a9ce-4846-83d1-e0938df2510d)
 
 ### Gameplay: 
 Ahora puedes jugar con 2 usuarios registrados o con un usuario registrado en una computadora. Las negras harán un primer movimiento un paso en diagonal hacia arriba o hacia abajo. Y luego el rojo hará un movimiento de un paso en diagonal hacia arriba. Y cada vez, el usuario sólo puede realizar un movimiento diagonal a menos que sea un movimiento de salto.
 
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/b6c8c42a-15e6-4a6f-abd9-4e2c308f4dc4)
+
 Movimiento rojo seguido de movimiento negro:
+
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/7f2f35e8-47d2-47cf-844c-3f3635c5e0d7)
 
 Antes de una captura y después de una captura
 
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/2dc474db-6fce-477f-8bda-484c21d8ae1f)    ![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/93f5ea21-57a8-43d5-bb41-f25d07b5c436)
+
+
 Pieza negra convertida en Rey, Pieza roja convertida en Rey
+
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/42b6fc2b-6da0-499e-a753-e73ee9817a5b)
+
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/0d3e5c02-ee57-42a7-8515-ad45611b574a)
+
 
 El usuario se convertirá en ganador si mata todas las piezas de su oponente en el juego.
 
@@ -1256,6 +1298,8 @@ Estas son ventanas emergentes que ayudan a los usuarios a registrarse y jugar. U
 #### buttonHandlers(): 
 Contiene principalmente controladores de botones y tiene detalles sobre la acción que se debe realizar cuando se hace clic en los botones.
 
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/93c876af-3039-440c-8319-35e0588d697b)
+
 ## 3. Diseño de algoritmos
 Enumere los nombres de los miembros del equipo que contribuyeron a esta sección.
 
@@ -1291,7 +1335,7 @@ possibleMoves <- 4;
     ENDWHILE 
 END
 ```
-####Funcionalidad del algoritmo
+#### Funcionalidad del algoritmo
 
 El algoritmo se basa en un enfoque de fuerza bruta en el que escaneamos el tablero de damas desde la parte superior izquierda y continuamos por filas hasta encontrar una pieza de color ROJO (el bot siempre tiene piezas de color rojo). Una vez que encontramos una pieza de este tipo, intentamos ver si hay algún movimiento legal que hacer, 4 movimientos posibles para una pieza normal y 8 movimientos posibles para una pieza promovida por rey, que incluyen un movimiento normal y un movimiento de salto que elimina una pieza humana del tablero. Si no existe tal movimiento, continuamos con el siguiente robot de damas y buscamos un movimiento legal para eso.
 De esta manera, el bot hace un movimiento y cuando solo hay una pieza de damas humana y se mantiene en diagonal a 1 casilla de distancia de la pieza del robot informático, el robot informático mata la pieza del oponente y gana el juego.
@@ -1417,6 +1461,20 @@ La convención de nomenclatura de los métodos de prueba no era coherente ya que
         </tr>
     </tbody>
 </table>
+
+## Bugs
+
+### Fragmento de código con errores
+
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/63e8ef53-5b56-4d4e-a7b8-ba3d9936134c)
+
+### ¿Cuál es el error?
+
+Cuando el jugador no puede realizar ningún movimiento legal, pero aún tiene piezas a bordo. El juego se queda estancado
+
+### ¿Por qué es un error?
+
+Este caso debe ser manejado y el oponente también debe ser declarado ganador.
 
 # V. Acta de la reunión
 
