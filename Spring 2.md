@@ -925,13 +925,7 @@ Informe las actas de todas las reuniones, incluidas, entre otras: reunión de pl
     </tbody>
 </table>
 
-### Decisiones clave:
-- Lenguaje de programación: JAVA
-- GUI Library: Javax
-- Guía de estilo de programación: Google Java Style Guide
-- IDE: IntelliJ
-- Sistema de gestión de bases de datos: MySQL
-- Sitio de alojamiento del proyecto: Github
+
 
 # VI. Calificaciones de amigos
 
