@@ -1154,6 +1154,7 @@ Después de un registro exitoso, la base de datos tendrá los valores ingresados
 
 ### Registre un nuevo usuario con datos no válidos:
 Si el usuario ingresó los valores no coinciden con cualquiera de los escenarios de validación, aparecerá una ventana emergente que indicará que se ingresaron datos no válidos. Y además, los datos no se almacenarán en la base de datos MySQL de damas americanas creada:
+![image](https://github.com/Alema03/CC3S2A-grupal/assets/137519831/ba773e41-ac25-442d-b8f7-42b894f8326b)
 
 ### Inicio de sesión de usuario: :
 Al iniciar sesión, un usuario debe ingresar el nombre de usuario y la contraseña; una vez que este nombre de usuario y contraseña coincidan con los valores registrados en la base de datos, el usuario podrá acceder a la interfaz del juego:
