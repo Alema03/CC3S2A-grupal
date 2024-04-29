@@ -1438,7 +1438,7 @@ Informe las actas de todas las reuniones, incluidas, entre otras: reunión de pl
             <td rowspan=3 align="center">3 horas</td>
             <td rowspan=3 align="center">Meet</td>
             <td align="center">Cleber Aguado</td>
-            <td rowspan=3 align="center">Creacion de Clases</td>
+            <td rowspan=3 align="center">Implementación del juego Human vs Computer y prueba del código escribiendo casos de prueba relevantes.</td>
             <td align="left">Lectura de los sprints</td>
         </tr>
         <tr>
@@ -1516,13 +1516,7 @@ Informe las actas de todas las reuniones, incluidas, entre otras: reunión de pl
     </tbody>
 </table>
 
-### Decisiones clave:
-- Lenguaje de programación: JAVA
-- GUI Library: Javax
-- Guía de estilo de programación: Google Java Style Guide
-- IDE: IntelliJ
-- Sistema de gestión de bases de datos: MySQL
-- Sitio de alojamiento del proyecto: Github
+
 
 # VI. Calificaciones de amigos
 
