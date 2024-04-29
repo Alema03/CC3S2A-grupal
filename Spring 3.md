@@ -92,7 +92,7 @@
           <td align="center">5 horas</td>
           <td align="center">5 horas</td>
           <td align="center">En curso</td>
-          <td align="center">Cleber Aguado</td>
+          <td align="center">Maycoll Escobar</td>
         </tr>
       <tr>
             <td align="center">7</td>
@@ -105,7 +105,7 @@
           <td align="center">5 horas</td>
           <td align="center">5 horas</td>
           <td align="center">En curso</td>
-          <td align="center">Cleber Aguado</td>
+          <td align="center">Marcelo Nuñez</td>
         </tr>
       <tr>
             <td align="center">8</td>
@@ -143,7 +143,7 @@
             <td rowspan=7 align="center">1.1 Registro exitoso de un nuevo usuario</td>
             <td align="left">Dado un nombre de usuario válido inexistente</td>
             <td rowspan=7 align="center">Hecho</td>
-            <td rowspan=7 align="center">Cleber Aguado</td>
+            <td rowspan=7 align="center">Maycoll Escobar</td>
         </tr>
         <tr>
             <td align="left">Cuando registro un usuario con este nombre de usuario</td>
@@ -167,7 +167,7 @@
               <td rowspan=7 align="center">1.2 Registro de usuario fallido con un nombre de usuario existente</td>
               <td align="left">Dado un nombre de usuario válido que ya existe.</td>
               <td rowspan=7 align="center">Hecho</td>
-              <td rowspan=7 align="center">Cleber Aguado</td>
+              <td rowspan=7 align="center">Maycoll Escobar</td>
         </tr>
       <tr>
                <td align="left">Cuando registro un usuario con este nombre de usuario.</td>
@@ -191,7 +191,7 @@
               <td rowspan=7 align="center">1.3 Registro de usuario fallido con contraseña no válida</td>
               <td align="left">Dado un nombre de usuario válido inexistente.</td>
               <td rowspan=7 align="center">Hecho</td>
-              <td rowspan=7 align="center">Cleber Aguado</td>
+              <td rowspan=7 align="center">Maycoll Escobar</td>
         </tr>
       <tr>
               <td  align="left">Cuando registro un nuevo usuario con este nombre de usuario</td>
@@ -215,7 +215,7 @@
               <td rowspan=6 align="center">1.4 Registro de usuario fallido con contraseña válida</td>
               <td align="left">Dado un nombre de usuario válido inexistente.</td>
               <td rowspan=6 align="center">Hecho</td> 
-              <td rowspan=6 align="center">Cleber Aguado</td>
+              <td rowspan=6 align="center">Maycoll Escobar</td>
       </tr>
       <tr>
               <td  align="left">Cuando registro un nuevo usuario con este nombre de usuario</td>
@@ -237,7 +237,7 @@
 </td>
               <td align="left">Dado un nombre de usuario válido inexistente.</td>
               <td rowspan=7 align="center">Hecho</td>
-              <td rowspan=7 align="center">Cleber Aguado</td>
+              <td rowspan=7 align="center">Maycoll Escobar</td>
         </tr>
       <tr>
               <td  align="left">Cuando registro un nuevo usuario con este nombre de usuario</td>
@@ -261,7 +261,7 @@
             <td rowspan=7 align="center">1.6.Registro de usuario fallido con apellido no válido </td>
             <td align="left">Dado un nombre de usuario válido inexistente</td>
             <td rowspan=7 align="center">Hecho</td>
-            <td rowspan=7 align="center">Cleber Aguado</td>
+            <td rowspan=7 align="center">Maycoll Escobar</td>
         </tr>
         <tr>
             <td align="left">Cuando registro un nuevo usuario con este nombre de usuario</td>
@@ -285,7 +285,7 @@
               <td rowspan=7 align="center">1.7 Registro de usuario fallido con teléfono no válido</td>
               <td align="left">Dado un nombre de usuario válido inexistente.</td>
               <td rowspan=7 align="center">Hecho</td>
-              <td rowspan=7 align="center">Cleber Aguado</td>
+              <td rowspan=7 align="center">Maycoll Escobar</td>
         </tr>
       <tr>
               <td  align="left">Cuando registro un nuevo usuario con este nombre de usuario</td>
@@ -310,7 +310,7 @@
               <td rowspan=4 align="center">2.1 Inicio de sesión exitoso del usuario </td>
               <td align="left">Dado un nombre de usuario válido existente.</td>
               <td rowspan=4 align="center">Hecho</td>
-              <td rowspan=4 align="center">Cleber Aguado</td>
+              <td rowspan=4 align="center">Marcelo Nuñez</td>
         </tr>
       <tr>
               <td  align="left">Cuando inicio sesión con este nombre de usuario</td>
@@ -325,7 +325,7 @@
               <td rowspan=4 align="center">2.2  Inicio de sesión fallido de un usuario con contraseña no válida </td>
               <td align="left">Dado un nombre de usuario válido existente</td>
              <td rowspan=4 align="center">Hecho</td>
-              <td rowspan=4 align="center">Cleber Aguado</td>
+              <td rowspan=4 align="center">Marcelo Nuñez</td>
         </tr>
       <tr>
               <td align="left">Cuando inicio sesión con este nombre de usuario</td>
@@ -340,7 +340,7 @@
               <td rowspan=3 align="center">2.3  Inicio de sesión fallido de un usuario con un nombre de usuario no válido </td>
               <td align="left">Dado un nombre de usuario válido inexistente</td>
               <td rowspan=3 align="center">Hecho</td>
-              <td rowspan=3 align="center">Cleber Aguado</td>
+              <td rowspan=3 align="center">Marcelo Nuñez</td>
         </tr>
       <tr>
               <td align="left">Cuando inicio sesión con este nombre de usuario y una contraseña que coincide con la contraseña establecida por el usuario</td>
@@ -353,7 +353,7 @@
               <td rowspan=3 align="center">3.1 Inicio del Juego </td>
               <td align="left">Dado la aplicación del juego.</td>
               <td rowspan=3 align="center">Hecho</td>
-              <td rowspan=3 align="center">Cleber Aguado</td>
+              <td rowspan=3 align="center">Marcelo Nuñez</td>
         </tr>
       <tr>
               <td  align="left">Cuando el usuario la inicia</td>
@@ -365,7 +365,7 @@
               <td rowspan=3 align="center">3.2  Colocación de las piezas de damas a bordo</td>
               <td align="left">Dado que el usuario ejecuta la aplicación.</td>
              <td rowspan=3 align="center">Hecho</td>
-              <td rowspan=3 align="center">Cleber Aguado</td>
+              <td rowspan=3 align="center">Marcelo Nuñez</td>
         </tr>
       <tr>
               <td align="left">Cuando el tablero de damas está cargado</td>
@@ -377,7 +377,7 @@
               <td rowspan=3 align="center">3.3  Lanzamiento para determinar quién juega primero </td>
               <td align="left">Dado un nombre de usuario válido inexistente</td>
               <td rowspan=3 align="center">Hecho</td>
-              <td rowspan=3 align="center">Cleber Aguado</td>
+              <td rowspan=3 align="center">Marcelo Nuñez</td>
         </tr>
       <tr>
               <td align="left">Cuando el tablero de damas está cargado</td>
@@ -488,7 +488,7 @@
               <td rowspan=3 align="center">6.1 Saltar sobre la pieza del oponente</td>
               <td align="left">Dado el turno de un jugador para moverse</td>
               <td rowspan=3 align="center">Hecho</td>
-              <td rowspan=3 align="center">Cleber Aguado</td>
+              <td rowspan=3 align="center">Maycoll Escobar</td>
         </tr>
       <tr>
               <td  align="left">Cuando un jugador da un salto válido sobre la pieza del oponente</td>
@@ -500,7 +500,7 @@
               <td rowspan=3 align="center">6.2  Realizar un salto fallido sobre una pieza del mismo color</td>
               <td align="left">Dado el turno de un jugador para moverse</td>
              <td rowspan=3 align="center">Hecho</td>
-              <td rowspan=3 align="center">Cleber Aguado</td>
+              <td rowspan=3 align="center">Maycoll Escobar</td>
         </tr>
       <tr>
               <td align="left">Cuando un jugador realiza un salto inválido sobre una pieza del mismo color </td>
@@ -513,7 +513,7 @@
               <td rowspan=3 align="center">7.1 Movimiento exitoso del Bot</td>
               <td align="left">Dado un usuario jugando un juego</td>
               <td rowspan=3 align="center">Hecho</td>
-              <td rowspan=3 align="center">Cleber Aguado</td>
+              <td rowspan=3 align="center">Marcelo Nuñez</td>
         </tr>
       <tr>
               <td  align="left">Cuando un usuario realiza un movimiento válido</td>
@@ -525,7 +525,7 @@
               <td rowspan=3 align="center">7.2  Cambio de Turno</td>
               <td align="left">Dado un usuario jugando un juego</td>
              <td rowspan=3 align="center">Hecho</td>
-              <td rowspan=3 align="center">Cleber Aguado</td>
+              <td rowspan=3 align="center">Marcelo Nuñez</td>
         </tr>
       <tr>
               <td align="left">Cuando la computadora realiza un movimiento válido </td>
@@ -594,7 +594,7 @@
             <td align="center">1.1</td>
             <td align="center">UserAccount UserAccountManager UserManagerGUI </td>
             <td align="center">registerNewUser() doesUserNameExist() executeUpdate()</td>
-            <td rowspan=7 align="center">4</td>
+            <td rowspan=7 align="center">Maycoll Escobar</td>
             <td  align="center">Hecho</td>
             <td align="center">Nuevo usuario se registra exitosamente</td>
         </tr>
@@ -645,7 +645,7 @@
             <td align="center">2.1</td>
             <td align="center">UserAccount UserAccountManager UserManagerGUI</td>
             <td align="center">login() executeQuery()</td>
-            <td rowspan=3 align="center">4</td>
+            <td rowspan=3 align="center">Marcelo Nuñez</td>
             <td rowspan=1 align="center">Hecho</td>
             <td align="center">Acceso de usuario exitoso</td>
         </tr>
@@ -668,7 +668,7 @@
             <td align="center">3.1</td>
             <td align="center">AmericanCheckersGUI</td>
             <td align="center">drawBoard(Graphics g)</td>
-            <td rowspan=3 align="center">4</td>
+            <td rowspan=3 align="center">Marcelo Nuñez</td>
             <td rowspan=1 align="center">Hecho</td>
             <td align="center">Verifica si el tablero es visible o no</td>
         </tr>
@@ -693,7 +693,7 @@
             <td rowspan=3 align="center">American Checkers Game.
                                American Checkers GUI</td>
             <td align="center">validMove()</td>
-            <td rowspan=14 align="center">4</td>
+            <td rowspan=14 align="center">Cleber Aguado</td>
             <td rowspan=3 align="center">Hecho</td>
             <td rowspan=3 align="center">Se asegura que el primer movimiento lo realicen las negras</td>
         </tr>
@@ -768,7 +768,7 @@
             <td rowspan=4 align="center">American Checkers Game.
                                 American Checkers GUI</td>
             <td rowspan=1 align="center">validMove()</td>
-            <td rowspan=7 align="center">des</td>
+            <td rowspan=7 align="center">Cleber Aguado</td>
             <td rowspan=4 align="center">Hecho</td>
             <td rowspan=4 align="center">Cuando una pieza normal llega a la primera fila del oponente, debe ascender a rey</td>
         </tr>
@@ -801,7 +801,7 @@
             <td rowspan=3 align="center">American Checkers Game.
                                 American Checkers GUI</td>
             <td align="center">validMove()</td>
-            <td rowspan=5 align="center">des</td>
+            <td rowspan=5 align="center">Cleber Aguado</td>
             <td rowspan=3 align="center">Hecho</td>
             <td rowspan=3 align="center">Debería permitirse matar una pieza del oponente</td>
         </tr>
@@ -828,7 +828,7 @@
             <td  align="center">American Checkers Game.
                                 American Checkers GUI</td>
             <td align="center">findValidBotMove()</td>
-            <td rowspan=2 align="center">des</td>
+            <td rowspan=2 align="center">Maycoll Escobar</td>
             <td rowspan=2 align="center">Hecho</td>
             <td align="center">BOT hace un movimiento valido</td>
         </tr>
@@ -845,7 +845,7 @@
             <td rowspan=4 align="center">American Checkers Game.
                                 American Checkers GUI</td>
             <td align="center">validMove()</td>
-            <td rowspan=12 align="center">des</td>
+            <td rowspan=12 align="center">Cleber Aguado</td>
             <td rowspan=4 align="center">Hecho</td>
             <td rowspan=4 align="center">Cuando no quede ninguna pieza del oponente, éste deberá ser declarado ganador</td>
         </tr>
@@ -910,74 +910,58 @@ Resumen de casos de prueba manuales (que corresponden directamente a algunos cri
     </thead>
     <tbody>
         <tr>
-            <td align="center">1 Registro de Usuario</td>
-            <td align="center">1.1 Creación exitosa de una cuenta de usuario válida</td>
-            <td align="center">2</td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
             <td align="center">Se abre la página de registro</td>
             <td align="center">Hecho</td>
             <td align="center">Se abre la página de registro para registrar un nuevo usuario</td>
-            <td align="center">6</td>
+            <td align="center">Maycoll Escobar</td>
         </tr>
         <tr>
-            <td align="center">2 Inicio de Sesión</td>
-            <td align="center">2.1 Inicio de sesión exitoso con nombre de usuario y contraseña</td>
-            <td align="center">2</td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
             <td align="center">Página de inicio de sesión</td>
             <td align="center">Hecho</td>
             <td align="center">Se abre la página de inicio de sesión</td>
-            <td align="center">6</td>
+            <td align="center">Marcelo Nuñez</td>
         </tr>
         <tr>
-            <td align="center">3 Visualización del Tablero</td>
-            <td align="center">3.1 Visualización del tablero de damas en línea con posiciones de piezas para ambos jugadores</td>
-            <td align="center">2</td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
             <td align="center">Checkers Board</td>
             <td align="center">Hecho</td>
             <td align="center">Se debe mostrar el tablero de damas.</td>
-            <td align="center">6</td>
+            <td align="center">Marcelo Nuñez</td>
         </tr>
         <tr>
-            <td align="center">4 Visualización del Tablero</td>
-            <td align="center">3.1 Visualización del tablero de damas en línea con posiciones de piezas para ambos jugadores</td>
-            <td align="center">2</td>
-            <td align="center">Checkers Board</td>
-            <td align="center">Hecho</td>
-            <td align="center">Se debe mostrar el tablero de damas.</td>
-            <td align="center">6</td>
-        </tr>
-        <tr>
-            <td rowspan=3align="center">3 Visualización del Tablero</td>
-            <td align="center">3.1 Visualización del tablero de damas en línea con posiciones de piezas para ambos jugadores</td>
-            <td align="center">2</td>
-            <td align="center">Checkers Board</td>
-            <td align="center">Hecho</td>
-            <td align="center">Se debe mostrar el tablero de damas.</td>
-            <td align="center">6</td>
-        </tr>
-        <tr>
-            <td align="center">3.2 Visualización del tablero de damas en línea con posiciones de piezas para ambos jugadores</td>
-            <td align="center">2</td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
             <td align="center">Posición de la pieza</td>
             <td align="center">Hecho</td>
             <td align="center">La pieza de damas debe estar dispuesta correctamente</td>
-            <td align="center">6</td>
+            <td align="center">Cleber Aguado</td>
         </tr>
         <tr>
-            <td align="center">3.1 Visualización del tablero de damas en línea con posiciones de piezas para ambos jugadores</td>
-            <td align="center">2</td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
             <td align="center">Player 1 o Player 2</td>
             <td align="center">Hecho</td>
             <td align="center">Cuadro de texto que muestre quien gano el turno</td>
-            <td align="center">6</td>
+            <td align="center">Maycoll Escobar</td>
         </tr>
         <tr>
-            <td rowspan=3align="center">4 </td>
-            <td align="center">3.1 Visualización del tablero de damas en línea con posiciones de piezas para ambos jugadores</td>
-            <td align="center">2</td>
+            <td rowspan=3align="center"> </td>
+            <td align="center"></td>
+            <td align="center"></td>
             <td align="center">Humano vs computadora el juego comienza</td>
             <td align="center">Hecho</td>
             <td align="center">Se inicia el juego vs la computadora</td>
-            <td align="center">6</td>
+            <td align="center">Marcelo Nuñez</td>
         </tr>
     </tbody>
 </table>
