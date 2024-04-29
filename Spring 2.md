@@ -695,7 +695,7 @@ Resumen de otras pruebas automatizadas o manuales (que no corresponden a los cri
             <td align="center">CheckersPiecePositionTest</td>
             <td align="center">testCheckersPíeceColor()</td>
             <td align="center">Hecho</td>
-            <td align="center">6</td>
+            <td align="center">Cleber Aguado</td>
         </tr>
         <tr>
             <td align="center">2 </td>
@@ -704,7 +704,7 @@ Resumen de otras pruebas automatizadas o manuales (que no corresponden a los cri
             <td align="center">CheckersPiecePositionTest</td>
             <td align="center">testCheckersKingPiece()</td>
             <td align="center">Hecho</td>
-            <td align="center">6</td>
+            <td align="center">Cleber Aguado</td>
         </tr>
         <tr>
             <td align="center">3</td>
@@ -713,7 +713,7 @@ Resumen de otras pruebas automatizadas o manuales (que no corresponden a los cri
             <td align="center">CheckersMoveTest</td>
             <td align="center">testFirstmoveByBlack()</td>
             <td align="center">Hecho</td>
-            <td align="center">6</td>
+            <td align="center">Cleber Aguado</td>
         </tr>
         <tr>
             <td align="center">4</td>
@@ -722,7 +722,7 @@ Resumen de otras pruebas automatizadas o manuales (que no corresponden a los cri
             <td align="center">CheckersMoveTest</td>
             <td align="center">testFirstmoveByRed()</td>
             <td align="center">Hecho</td>
-            <td align="center">6</td>
+            <td align="center">Marcelo Nuñez</td>
         </tr>
         <tr>
             <td align="center">5</td>
@@ -731,7 +731,7 @@ Resumen de otras pruebas automatizadas o manuales (que no corresponden a los cri
             <td align="center">HopTest</td>
             <td align="center">BlackTestValidHop()</td>
             <td align="center">Hecho</td>
-            <td align="center">6</td>
+            <td align="center">Marcelo Nuñez</td>
         </tr>
         <tr>
             <td align="center">6</td>
@@ -740,7 +740,7 @@ Resumen de otras pruebas automatizadas o manuales (que no corresponden a los cri
             <td align="center">HopTest</td>
             <td align="center">RedTestValidHop()</td>
             <td align="center">Hecho</td>
-            <td align="center">6</td>
+            <td align="center">Marcelo Nuñez</td>
         </tr>
         <tr>
             <td align="center">7</td>
@@ -749,7 +749,7 @@ Resumen de otras pruebas automatizadas o manuales (que no corresponden a los cri
             <td align="center">HopTest</td>
             <td align="center">BlackTestInvalidHop()</td>
             <td align="center">Hecho</td>
-            <td align="center">6</td>
+            <td align="center">Marcelo Nuñez</td>
         </tr>
         <tr>
             <td align="center">8</td>
@@ -758,7 +758,7 @@ Resumen de otras pruebas automatizadas o manuales (que no corresponden a los cri
             <td align="center">HopTest</td>
             <td align="center">RedTestInvalidHop()</td>
             <td align="center">Hecho</td>
-            <td align="center">6</td>
+            <td align="center">Maycoll Escobar</td>
         </tr>
         <tr>
             <td align="center">9</td>
@@ -767,7 +767,7 @@ Resumen de otras pruebas automatizadas o manuales (que no corresponden a los cri
             <td align="center">KingPromotionTest</td>
             <td align="center">testBlckSuccesfulKingPromotion()</td>
             <td align="center">Hecho</td>
-            <td align="center">6</td>
+            <td align="center">Maycoll Escobar</td>
         </tr>
         <tr>
             <td align="center">10</td>
@@ -776,7 +776,7 @@ Resumen de otras pruebas automatizadas o manuales (que no corresponden a los cri
             <td align="center">KingPromotionTest</td>
             <td align="center">testRedSuccesfulKingPromotion()</td>
             <td align="center">Hecho</td>
-            <td align="center">6</td>
+            <td align="center">Maycoll Escobar</td>
         </tr>
         <tr>
             <td align="center">11</td>
@@ -785,7 +785,7 @@ Resumen de otras pruebas automatizadas o manuales (que no corresponden a los cri
             <td align="center">KingPromotionTest</td>
             <td align="center">testBlckUnsuccesfulKingPromotion()</td>
             <td align="center">Hecho</td>
-            <td align="center">6</td>
+            <td align="center">Maycoll Escobar</td>
         </tr>
         <tr>
             <td align="center">12</td>
@@ -794,7 +794,7 @@ Resumen de otras pruebas automatizadas o manuales (que no corresponden a los cri
             <td align="center">KingPromotionTest</td>
             <td align="center">testRedUnsuccesfulKingPromotion()</td>
             <td align="center">Hecho</td>
-            <td align="center">6</td>
+            <td align="center">Cleber Aguado</td>
         </tr>
         <tr>
             <td align="center">13</td>
@@ -803,7 +803,7 @@ Resumen de otras pruebas automatizadas o manuales (que no corresponden a los cri
             <td align="center">EndGameTest</td>
             <td align="center">redWinPosition()</td>
             <td align="center">Hecho</td>
-            <td align="center">6</td>
+            <td align="center">Cleber Aguado</td>
         </tr>
         <tr>
             <td align="center">14</td>
@@ -812,7 +812,7 @@ Resumen de otras pruebas automatizadas o manuales (que no corresponden a los cri
             <td align="center">EndGameTest</td>
             <td align="center">blackWinPosition()</td>
             <td align="center">Hecho</td>
-            <td align="center">6</td>
+            <td align="center">Maycoll Escobar</td>
         </tr>
         <tr>
             <td align="center">15</td>
@@ -821,7 +821,7 @@ Resumen de otras pruebas automatizadas o manuales (que no corresponden a los cri
             <td align="center">EndGameTest</td>
             <td align="center">EndGameTest()</td>
             <td align="center">Hecho</td>
-            <td align="center">6</td>
+            <td align="center">Marcelo Nuñez</td>
         </tr>
     </tbody>
 </table>
