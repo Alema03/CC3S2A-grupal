@@ -644,27 +644,27 @@ Resumen de casos de prueba manuales (que corresponden directamente a algunos cri
     </thead>
     <tbody>
         <tr>
-            <td align="center">1 Registro de Usuario</td>
-            <td align="center">1.1 Creación exitosa de una cuenta de usuario válida</td>
-            <td align="center">2</td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
             <td align="center">Checkers Board</td>
             <td align="center">Hecho</td>
             <td align="center">Se debe mostrar el tablero de damas.</td>
             <td align="center">Maycoll Escobar</td>
         </tr>
         <tr>
-            <td align="center">2 Inicio de Sesión</td>
-            <td align="center">2.1 Inicio de sesión exitoso con nombre de usuario y contraseña</td>
-            <td align="center">2</td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
             <td align="center">Posición de la pieza</td>
             <td align="center">Hecho</td>
             <td align="center">La pieza de damas debe estar dispuesta correctamente</td>
             <td align="center">Marcelo Nuñez</td>
         </tr>
         <tr>
-            <td align="center">3 Visualización del Tablero</td>
-            <td align="center">3.1 Visualización del tablero de damas en línea con posiciones de piezas para ambos jugadores</td>
-            <td align="center">2</td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
             <td align="center">Player 1 o Player 2</td>
             <td align="center">Hecho</td>
             <td align="center">Cuadro de texto que muestre quien gano el turno</td>
