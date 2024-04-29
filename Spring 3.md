@@ -1438,28 +1438,28 @@ Informe las actas de todas las reuniones, incluidas, entre otras: reunión de pl
             <td rowspan=3 align="center">3 horas</td>
             <td rowspan=3 align="center">Meet</td>
             <td align="center">Cleber Aguado</td>
-            <td rowspan=3 align="center">Implementación del juego Human vs Computer y prueba del código escribiendo casos de prueba relevantes.</td>
-            <td align="left">Lectura de los sprints</td>
+            <td rowspan=3 align="center">Implementación del juego Humano vs Computadora y prueba del código escribiendo casos de prueba relevantes.</td>
+            <td align="left">Discucion sobre el algoritmo para el juego entre humanos y computadoras.</td>
         </tr>
         <tr>
             <td align="center">Marcelo Nuñez</td>
-            <td align="left">Creación de carpeta compartida para la edición de documentos</td>
+            <td align="left">Implementar el juego entre humano vs computadora.</td>
         </tr>
         <tr>
             <td align="center">Maycoll Escobar</td>
-            <td align="left">Investigación sobre las reglas y diferencias del juego de damas</td>
+            <td align="left">Probar el juego entre humanos y computadoras escribiendo casos de prueba relevantes.</td>
         </tr>
         <tr>
             <td rowspan=3 align="center">10/04/2024</td>
             <td rowspan=3 align="center">2 horas</td>
             <td rowspan=3 align="center">Meet</td>
             <td align="center">Cleber Aguado</td>
-            <td rowspan=3 align="center">Creación del repositorio del grupo</td>
+            <td rowspan=3 align="center">Revisión de todo el proyecto</td>
             <td align="left">Elección de representante del grupo</td>
         </tr>
         <tr>
             <td align="center">Marcelo Nuñez</td>
-            <td align="left">Lectura de actividad dada en clase</td>
+            <td align="left">Organizó una revisión del código y anotó los hallazgos</td>
         </tr>
         <tr>
             <td align="center">Maycoll Escobar</td>
