@@ -846,82 +846,48 @@ Informe las actas de todas las reuniones, incluidas, entre otras: reunión de pl
             <td rowspan=3 align="center">8/04/2024</td>
             <td rowspan=3 align="center">3 horas</td>
             <td rowspan=3 align="center">Meet</td>
-            <td align="center">Cleber Aguado</td>
-            <td rowspan=3 align="center">Creacion de Clases</td>
-            <td align="left">Lectura de los sprints</td>
+            <td rowspan=1 align="center">Cleber Aguado</td>
+            <td rowspan=3 align="center">Analizar y diseñar juegos entre humanos y humanos.</td>
+            <td rowspan=3 align="left">La pieza debe resaltarse al seleccionarla.
+                                        Movimiento de pieza normal para negro y rojo.</td>
         </tr>
         <tr>
-            <td align="center">Marcelo Nuñez</td>
-            <td align="left">Creación de carpeta compartida para la edición de documentos</td>
+            <td rowspan=1 align="center">Marcelo Nuñez</td>
         </tr>
         <tr>
-            <td align="center">Maycoll Escobar</td>
-            <td align="left">Investigación sobre las reglas y diferencias del juego de damas</td>
+            <td rowspan=1  align="center">Maycoll Escobar</td>
         </tr>
         <tr>
             <td rowspan=3 align="center">10/04/2024</td>
             <td rowspan=3 align="center">2 horas</td>
             <td rowspan=3 align="center">Meet</td>
-            <td align="center">Cleber Aguado</td>
-            <td rowspan=3 align="center">Creación del repositorio del grupo</td>
-            <td align="left">Elección de representante del grupo</td>
+            <td rowspan=1 align="center">Cleber Aguado</td>
+            <td rowspan=3 align="center">Implementar el código de producción en java para la promoción king.</td>
+            <td align="left">Implementar UI para pieza rey.</td>
         </tr>
         <tr>
             <td align="center">Marcelo Nuñez</td>
-            <td align="left">Lectura de actividad dada en clase</td>
+            <td align="left">Implementar código de producción para la promoción de rey cuando se llega a la primera fila del oponente.</td>
         </tr>
         <tr>
             <td align="center">Maycoll Escobar</td>
-            <td align="left">Práctica de uso de commits y edición</td>
+            <td align="left">Movimiento de pieza de Rey válido</td>
         </tr>
         <tr>
             <td rowspan=3 align="center">13/04/2024</td>
             <td rowspan=3 align="center">1 hora</td>
             <td rowspan=3 align="center">Meet</td>
             <td align="center">Cleber Aguado</td>
-            <td rowspan=3 align="center">Debate sobre implementación y software a utilizar</td>
-            <td align="left">Investigar sobre la viabilidad de hacer una app o una página</td>
+            <td rowspan=3 align="center">Implementar código de producción para matar piezas y finalizar el juego.</td>
+            <td rowspan=3 align="left">Código de producción implementado para la funcionalidad de lanzamiento.
+                            Código de prueba implementado y cobertura de código mejorada.</td>
         </tr>
         <tr>
             <td align="center">Marcelo Nuñez</td>
-            <td align="left">Elección del lenguaje a utilizar</td>
         </tr>
         <tr>
             <td align="center">Maycoll Escobar</td>
-            <td align="left">Elección de IDE a utilizar</td>
         </tr>
-        <tr>
-            <td rowspan=3 align="center">14/04/2024</td>
-            <td rowspan=3 align="center">1 hora</td>
-            <td rowspan=3 align="center">Meet</td>
-            <td align="center">Cleber Aguado</td>
-            <td rowspan=3 align="center">Repartir el trabajo del Sprint 1 y mejorar lo hecho en clase y presentación de avance</td>
-            <td align="left">Actualización de Microcarta, historias de uso y criterios de aceptación</td>
-        </tr>
-        <tr>
-            <td align="center">Marcelo Nuñez</td>
-            <td align="left">Presentación de avance de desarrollo de código</td>
-        </tr>
-        <tr>
-            <td align="center">Maycoll Escobar</td>
-            <td align="left">Revisión y corrección de códigos y colaboración para la resolución de los problemas o dudas</td>
-        </tr>
-        <tr>
-            <td rowspan=3 align="center">16/04/2024</td>
-            <td rowspan=3 align="center">1 hora</td>
-            <td rowspan=3 align="center">Bilbioteca de FC</td>
-            <td align="center">Cleber Aguado</td>
-            <td rowspan=3 align="center">Concluir el Sprint 1</td>
-            <td align="left">Revisar las actividades requeridas así como la implementación primitiva.</td>
-        </tr>
-        <tr>
-            <td align="center">Marcelo Nuñez</td>
-            <td align="left">Lectura grupal del Spring 1</td>
-        </tr>
-        <tr>
-            <td align="center">Maycoll Escobar</td>
-            <td align="left">Grabación de vídeo de presentación de avance</td>
-        </tr> 
     </tbody>
 </table>
 
