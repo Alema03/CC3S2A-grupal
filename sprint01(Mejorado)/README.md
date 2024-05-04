@@ -1,1 +1,0 @@
-En la presente sección se mejora el trabajo presentado en primera instancia a fin de afianzar mejor los conocimientos obtenidos y la retroalimentación que se consiguió de los demás compañeros del curso
