@@ -1,0 +1,19 @@
+
+™	java:S135*"YReduce the total number of break and continue statements in this loop to use at most one.(µ¼éûÿÿÿÿJ$b950d615-1b7a-4cf8-9e1f-d5bedcb655ae
+k	java:S106$"+Replace this use of System.out by a logger.(¸è¼¯øÿÿÿÿJ$a5dd8b08-7407-4e3e-a7e3-d383dfddb29e
+e	java:S106%"+Replace this use of System.out by a logger.(øÑ¼	J$41c586a1-0670-4236-992f-b5c3c0f739af
+f	java:S106&"+Replace this use of System.out by a logger.(éö©J$999e4ec7-a1d6-4790-bb38-9ddf8bbd7754
+k	java:S106,"+Replace this use of System.out by a logger.( àæøÿÿÿÿJ$b8a07822-6bbe-4097-b655-77721024d2c5
+f	java:S106/"+Replace this use of System.out by a logger.(ÙÕÚÂJ$762b1a7c-b75d-43fd-b5e5-318b888d6079
+f	java:S1064"+Replace this use of System.out by a logger.(ğ£ÁæJ$6f7d5e5c-ef85-433f-b064-3bfd96703f2b
+f	java:S106="+Replace this use of System.out by a logger.(’àıªJ$d5802870-f3c5-4331-84a9-8fdc7c0b6821
+f	java:S106D"+Replace this use of System.out by a logger.(¤ñ¨J$c11d8c00-41b0-4b7c-94bf-bb19b4abe6ac
+k	java:S106G"+Replace this use of System.out by a logger.(ØÂÛ£ÿÿÿÿÿJ$713bb381-5793-417b-9892-8e6f554c906b
+G	java:S106Q"+Replace this use of System.out by a logger.(Æ«ôœ8Ûô²Íõ1
+L	java:S106R"+Replace this use of System.out by a logger.(â¼Íşÿÿÿÿ8Ûô²Íõ1
+G	java:S106S"+Replace this use of System.out by a logger.(˜¦İô8Ûô²Íõ1
+L	java:S106T"+Replace this use of System.out by a logger.(×è×øıÿÿÿÿ8Üô²Íõ1
+L	java:S106V"+Replace this use of System.out by a logger.(¦ÙèÄûÿÿÿÿ8Üô²Íõ1
+L	java:S106Z"+Replace this use of System.out by a logger.(Ø¢©Äùÿÿÿÿ8Şô²Íõ1
+Z
+java:S1144P"8Remove this unused private "showDetailedResults" method.(çàÿáøÿÿÿÿ8áô²Íõ1

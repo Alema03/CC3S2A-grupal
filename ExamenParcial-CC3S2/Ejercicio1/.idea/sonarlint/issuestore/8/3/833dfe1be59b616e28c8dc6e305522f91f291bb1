@@ -1,0 +1,15 @@
+
+s	java:S135*"YReduce the total number of break and continue statements in this loop to use at most one.(µ¼éûÿÿÿÿ
+E	java:S106$"+Replace this use of System.out by a logger.(¸è¼¯øÿÿÿÿ
+?	java:S106%"+Replace this use of System.out by a logger.(øÑ¼	
+@	java:S106&"+Replace this use of System.out by a logger.(éö©
+E	java:S106,"+Replace this use of System.out by a logger.( àæøÿÿÿÿ
+@	java:S106/"+Replace this use of System.out by a logger.(ÙÕÚÂ
+@	java:S1064"+Replace this use of System.out by a logger.(ğ£Áæ
+@	java:S106="+Replace this use of System.out by a logger.(’àıª
+@	java:S106D"+Replace this use of System.out by a logger.(¤ñ¨
+E	java:S106G"+Replace this use of System.out by a logger.(ØÂÛ£ÿÿÿÿÿ
+E	java:S106Q"+Replace this use of System.out by a logger.(€şÇøÿÿÿÿ
+E	java:S106R"+Replace this use of System.out by a logger.(â¼Íşÿÿÿÿ
+@	java:S106S"+Replace this use of System.out by a logger.(˜¦İô
+E	java:S106T"+Replace this use of System.out by a logger.(×è×øıÿÿÿÿ
